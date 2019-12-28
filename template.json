@@ -1,0 +1,33 @@
+{
+    "title": "",
+    "subtitle": "",
+    "marketingArguments": [
+        {
+            "title": "",
+            "speech": ""
+        }, {
+            "title": "",
+            "speech": ""
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 5,
+            "imagesUrl": [""],
+            "comment": ""
+        }
+    ],
+    "packContent": [
+        {
+            "description": "",
+            "imagesUrl": [""]
+        }
+    ],
+    "specifications": [
+        {
+            "label": "",
+            "value": "",
+            "photoUrl": ""
+        }
+    ]
+}
