@@ -35,6 +35,7 @@
     "reviews": [
         {
             "rating": 5,
+            "customerName": "",
             "comment": "",
             "images": [{
                 "altText": "",
