@@ -4,49 +4,83 @@
     "marketingArguments": [
         {
             "title": "What is beeswax wrap?",
-            "speech": "Beeswax is an eco friendly product made with organic cotton and organic beeswax. These properties allow it to be washable and reusable! It also contains natural anti-bacterial properties ideal for preserving your food!"
+            "speech": "Beeswax is an eco friendly product made with organic cotton and organic beeswax. These properties allow it to be washable and reusable! It also contains natural anti-bacterial properties ideal for preserving your food!",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }, {
             "title": "Sustainable product",
-            "speech": "Each package is designed to last up to one year.  you can wash it in cold water and air dry it. Your Beeswax wrap will retain its properties after washing. It is also 100% biodegradable."
+            "speech": "Each package is designed to last up to one year.  you can wash it in cold water and air dry it. Your Beeswax wrap will retain its properties after washing. It is also 100% biodegradable.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }, {
             "title": "Multiple use",
-            "speech": "With its 3 different sizes, you can keep all types of food: Fruits, vegetables, flowers, cheeses, breads, fresh snacks… can be used to cover almost anything that beeswax wrap can cover."
+            "speech": "With its 3 different sizes, you can keep all types of food: Fruits, vegetables, flowers, cheeses, breads, fresh snacks… can be used to cover almost anything that beeswax wrap can cover.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }, {
             "title": "How to use your beeswax wrap?",
-            "speech": "For the first use <br>Start by unfolding the beeswax. Crease it 3 times (neither one more, nor one less) to soften and make it very malleable.Your beeswax wrap is ready. Pack your seasonal fruits, your favorite vegetables, your homemade sandwiches or cover your favorite bowls or containers in a snap.<br>Our 3 best tips<br>Always wait until your dishes are cold before covering them with a bee wrap.Do not put your bee wrap in direct contact with raw meat or fish. Put the food first in a container then cover it You can put it in the fridge or freezer. Warning ! It cannot withstand the heat of the oven or microwave.<br>How to use day after day<br>There are two possibles use:To cover a bowl or other container, simply use the warmth of your hands and apply light pressure of 2/3 seconds to shape the bee wrap. You can rub lightly with your 10 fingers to make it adhere well.To directly package your favorite foods such as an apple, a carrot or a piece of cheese, place them directly in the center and close the beeswax wrap on itself.How to clean your beeswax wrap Between two uses of your beeswax wrap, remember to clean it well. You’ll see, it’s very simple.Always wash it by hand in cold water (~ 20°C). Hot water may damage your bee wrap and cause the beeswax to melt. Preferably use an ecological soap or dishwashing liquid with the soft side of the sponge, a tawashi - small zero-waste sponge made with recovery tissue or simply your hand.Wipe your eco-friendly packaging with a clean sponge and keep it dry.<br>What to do if the beeswax no longer sticks<br>Once clean, the bee wrap is ready to be used again. Hang on, it's reusable more than 100 times, that's one year of use.But it may stick less after a while. To resolve this problem, crease it again as explained above.At the end of its life, you can put it in the oven for 2 min at 60°C. Wait for it to cool and crumple it again. Here we go again"
+            "speech": "For the first use <br>Start by unfolding the beeswax. Crease it 3 times (neither one more, nor one less) to soften and make it very malleable.Your beeswax wrap is ready. Pack your seasonal fruits, your favorite vegetables, your homemade sandwiches or cover your favorite bowls or containers in a snap.<br>Our 3 best tips<br>Always wait until your dishes are cold before covering them with a bee wrap.Do not put your bee wrap in direct contact with raw meat or fish. Put the food first in a container then cover it You can put it in the fridge or freezer. Warning ! It cannot withstand the heat of the oven or microwave.<br>How to use day after day<br>There are two possibles use:To cover a bowl or other container, simply use the warmth of your hands and apply light pressure of 2/3 seconds to shape the bee wrap. You can rub lightly with your 10 fingers to make it adhere well.To directly package your favorite foods such as an apple, a carrot or a piece of cheese, place them directly in the center and close the beeswax wrap on itself.How to clean your beeswax wrap Between two uses of your beeswax wrap, remember to clean it well. You’ll see, it’s very simple.Always wash it by hand in cold water (~ 20°C). Hot water may damage your bee wrap and cause the beeswax to melt. Preferably use an ecological soap or dishwashing liquid with the soft side of the sponge, a tawashi - small zero-waste sponge made with recovery tissue or simply your hand.Wipe your eco-friendly packaging with a clean sponge and keep it dry.<br>What to do if the beeswax no longer sticks<br>Once clean, the bee wrap is ready to be used again. Hang on, it's reusable more than 100 times, that's one year of use.But it may stick less after a while. To resolve this problem, crease it again as explained above.At the end of its life, you can put it in the oven for 2 min at 60°C. Wait for it to cool and crumple it again. Here we go again",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }
     ],
     "reviews": [
         {
             "rating": 5,
-            "imagesUrl": [""],
-            "comment": ""
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
         }
     ],
     "packContent": [
         {
             "description": "1 small beeswax cloth",
-            "imagesUrl": [""]
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         },
         {
             "description": "1 medium beeswax cloth ",
-            "imagesUrl": [""]
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         },
         {
             "description": "1 large beeswax cloth",
-            "imagesUrl": [""]
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }
     ],
     "specifications": [
         {
             "label": "Material",
             "value": "organic cotton<br>sustainably harvested beeswax<br>organic jojoba oil",
-            "photoUrl": ""
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         },
         {
             "label": "Sizes",
             "value": "Small beeswax cloth - 18x20cm<br>Medium beeswax cloth - 25x28cm<br>Large beeswax cloth - 33x35cm",
-            "photoUrl": ""
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }
     ]
 }
