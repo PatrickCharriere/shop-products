@@ -4,30 +4,83 @@
     "marketingArguments": [
         {
             "title": "",
-            "speech": ""
+            "speech": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }, {
             "title": "",
-            "speech": ""
+            "speech": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "",
+            "speech": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "",
+            "speech": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }
     ],
     "reviews": [
         {
             "rating": 5,
-            "imagesUrl": [""],
-            "comment": ""
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
         }
     ],
     "packContent": [
         {
             "description": "",
-            "imagesUrl": [""]
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }
     ],
     "specifications": [
         {
             "label": "",
             "value": "",
-            "photoUrl": ""
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "label": "",
+            "value": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
         }
     ]
 }
