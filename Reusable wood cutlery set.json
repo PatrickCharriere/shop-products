@@ -1,0 +1,87 @@
+{
+    "title": "Reusable wood cutlery set",
+    "subtitle": "Say no to disposable plastic cutlery",
+    "marketingArguments": [
+        {
+            "title": "Organic & Reusable",
+            "speech": "This cutlery was designed to be eco-friendly, made of natural wood, fully respectful of nature and non-pollution. Take your own set of bamboo cutlery with you wherever you go. Reduce your plastic waste and help save the planet.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Easy to transport",
+            "speech": "They are made to support you in your travels, easily stow in your backpack or lunch box.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Multiple usage",
+            "speech": " This wooden cutlery set can be used in cooking, camping, picnics, party and other outdoor activities",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Optimized pocket",
+            "speech": " each utensil has a compartment to avoid bumping into each other, which can lead to unnecessary wear.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 5,
+            "customerName": "",
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
+        }
+    ],
+    "packContent": [
+        {
+            "description": "Set 7 pcs: <br>Spoon<br>Fork<br>Knife<br>Asian Cutlery<br>Straw Brush<br>Bamboo Straw",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "Set A 8 pcs:<br>Spoon<br>Fork<br>Knife<br>Asian Cutlery<br>Straw Brush<br>Bamboo Straw<br>Toothbrush",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "Set 10 pcs: <br>Spoon <br>Fork <br>Knife <br>Toothbrush <br>Bamboo straw <br>Asian cutlery<br>Straight straw steel <br>Curved steel straw<br>Straw Brush",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "specifications": [
+        {
+            "label": "Material",
+            "value": "Wood (Spoon, Fork, Knife, Toothbrush, <br>Bamboo (Asian Cutlery, Straw),<br>Stainless (Straight straw, Curved straw, Straw bursh)",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "label": "Size",
+            "value": "Spoon 20cm, Fork 20cm, Knife 20cm, Toothbrush 17,5cm, Bamboo straw 19,5cm, Asian cutlery 20cm, Straight straw steel 21,5cm, Curved steel straw 21,5cm, Straw Brush 20cm",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ]
+}

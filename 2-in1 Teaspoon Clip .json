@@ -1,0 +1,66 @@
+{
+    "title": "2-in-1 Teaspoon Clip",
+    "subtitle": "A spoon has never been so useful.",
+    "marketingArguments": [
+        {
+            "title": "Design for Tea & Coffee             ",
+            "speech": "Simple, design & efficient, this spoon will quickly integrate your daily life. <br> Finished looking for hours a way to close the coffee ground bag, just use your spoon.<br> Their timeless, stainless steel design measure just the right amount of coffee, for a delicious cup every time ",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 5,
+            "customerName": "",
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
+        }
+    ],
+    "packContent": [
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "specifications": [
+        {
+            "label": "Material",
+            "value": "Stainless Steel",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "label": "Size",
+            "value": "17,5*3,7cm",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ]
+}

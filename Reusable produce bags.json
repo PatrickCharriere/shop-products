@@ -1,0 +1,94 @@
+{
+    "title": "Reusable produce bags",
+    "subtitle": "The alternative to the disposable supermarket plastic bags",
+    "marketingArguments": [
+        {
+            "title": "Against the plastic",
+            "speech": "Decline the bag given by the store employees. The most challenging aspect of this is remembering to take them into the store, and creating the habit.For each reusable bag you use in grocery it’s one more plastic bags that you saved! ",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Reduces food waste & save money",
+            "speech": "Our mesh bags are perfect for storing fruits and vegetables. By using our reusable bags, the food will be breathable, reducing sweat which extends the life of your food longer (fruits,vegetables…) Thus, reduce waste, and your wallet will thank you for not having to buy more ",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Long life & Useful",
+            "speech": "These reusable mesh bags are robust and carry carry a lot more weight than plastic bags. They are transparent, meaning avoid danger of confusion at checkout and in the fridge you will see much more clearly given that you can see directly your food. In addition, you earn a lot of time because it’s easy to transit from shopping bag to the fridge. ",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Easy-Wash",
+            "speech": "Product which is designed primarily to be resistant. It has been created with a strong organic cotton, which can be washed by hand or washing machine. Very easy to clean and easy to dry.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Guide",
+            "speech": "Start to set good habits: Once the bags are dry, put them in your bags so as not to forget them for next shopping.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 5,
+            "customerName": "",
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
+        }
+    ],
+    "packContent": [
+        {
+            "description": "15pcs (large x 5 + medium x 5 + small x 5)OR",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "12pcs (large x 4 + medium x 4 + small x 4)OR",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "6pcs (large x 3 + medium x 3 + small x 3)",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "specifications": [
+        {
+            "label": "Material",
+            "value": "Certified 100% organic cotton",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "label": "",
+            "value": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ]
+}

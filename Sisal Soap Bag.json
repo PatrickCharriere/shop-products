@@ -1,0 +1,87 @@
+{
+    "title": "Sisal Soap Bag",
+    "subtitle": "The practical and eco-friendly accessory for storing and use your soap.",
+    "marketingArguments": [
+        {
+            "title": "Sustainable & Biodegradable",
+            "speech": "Made of natural Plant Fiber, durable for a long time to use.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "The best solution to extend soap life ",
+            "speech": "Put the soap in the bag. and let the soap dry quickly so as to for a longer time",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Stimulates Blood Circulation",
+            "speech": "You can use it for soap, shower gel, and cleansing lotion. It allows to massage and stimulate circulation in your shower",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Tighten design",
+            "speech": "Adapts to the size of your soap, just pull the string to tighten it. Easy to take out and put back",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 5,
+            "customerName": "",
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
+        }
+    ],
+    "packContent": [
+        {
+            "description": "10 pcs of Sizal Soap Bag",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "specifications": [
+        {
+            "label": "Material",
+            "value": "Cotton and linen",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "label": "Size",
+            "value": "14*9cm",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Bamboo toothbrush - 10pcs/set",
+    "subtitle": "100,000,000 plastic toothbrushes are consumed each year in Australia. It's time to change",
+    "marketingArguments": [
+        {
+            "title": "The best eco-friendly alternative plastic toothbrushes",
+            "speech": "Made from sustainably harvested bamboo",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Biodegradable",
+            "speech": "At the end of its life, it can be added to your home compost or can be buried in the garden.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Sustainable",
+            "speech": "Ultra-durable: longer than a plastic toothbrush. It is recommended to change your toothbrush every 3 months",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Ergonomic",
+            "speech": "Easy handle design",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Antimicrobial property",
+            "speech": "Bamboo has natural antibacterial properties. And no nasty BPA like plastics",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Eco-friendly packaging",
+            "speech": "Plastic-Free & Recyclable Cardboard",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }, {
+            "title": "Our tips",
+            "speech": "To remove the nylon, either pull out the bristles or cut off the head.",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "rating": 5,
+            "customerName": "",
+            "comment": "",
+            "images": [{
+                "altText": "",
+                "src": ""
+            }]
+        }
+    ],
+    "packContent": [
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "description": "",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ],
+    "specifications": [
+        {
+            "label": "Material",
+            "value": "Natural bamboo",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        },
+        {
+            "label": "Size",
+            "value": "17x1cm",
+            "image": {
+                "altText": "",
+                "src": ""
+            }
+        }
+    ]
+}
