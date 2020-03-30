@@ -1,9 +1,13 @@
 {
     "title": "Toothbrush holder",
     "subTitle": "Your toothbrush also needs a home",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

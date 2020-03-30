@@ -1,9 +1,13 @@
 {
     "title": "Sisal Soap Bag",
     "subTitle": "The practical and eco-friendly accessory for storing and use your soap.",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

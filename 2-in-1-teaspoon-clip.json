@@ -1,9 +1,13 @@
 {
     "title": "2-in-1 Teaspoon Clip",
     "subTitle": "A spoon has never been so useful.",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

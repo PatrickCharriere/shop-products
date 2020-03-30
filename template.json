@@ -1,9 +1,13 @@
 {
     "title": "",
     "subTitle": "",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

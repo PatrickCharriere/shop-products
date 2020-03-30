@@ -1,17 +1,21 @@
 {
     "title": "Beeswax wrap",
     "subTitle": "The eco-friendly alternative to cling wrap and single use-plastic",
-    "mainImage": {
-        "altText": "",
-        "src": "https://cdn.shopify.com/s/files/1/0275/6637/4996/products/beeswax.jpg"
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {
             "title": "What is beeswax wrap?",
             "speech": "Beeswax is an eco friendly product made with organic cotton and organic beeswax. These properties allow it to be washable and reusable! It also contains natural anti-bacterial properties ideal for preserving your food!",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Preparing beeswax",
+                "src": "https://cdn.shopify.com/s/files/1/0275/6637/4996/products/beeswax.jpg"
             }
         }, {
             "title": "Sustainable product",

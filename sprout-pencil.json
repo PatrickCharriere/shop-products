@@ -1,9 +1,13 @@
 {
     "title": "Sprout Pencil ",
     "subTitle": "This pencil grow into a plant after his death",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

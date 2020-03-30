@@ -1,9 +1,13 @@
 {
     "title": "Double wall coffee cups",
     "subTitle": "the alliance between style and practical",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

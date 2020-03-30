@@ -1,9 +1,13 @@
 {
     "title": "Reusable produce bags",
     "subTitle": "The alternative to the disposable supermarket plastic bags",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

@@ -1,9 +1,13 @@
 {
     "title": "Reusable wood cutlery set",
     "subTitle": "Say no to disposable plastic cutlery",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

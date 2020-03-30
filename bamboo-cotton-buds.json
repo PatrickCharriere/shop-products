@@ -1,9 +1,13 @@
 {
     "title": "Bamboo cotton buds",
     "subTitle": "Eco-friendly alternative Compared to the traditional plastic cotton buds",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {

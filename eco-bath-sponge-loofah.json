@@ -1,9 +1,13 @@
 {
     "title": "Eco bath sponge - Loofah",
     "subTitle": "A sustainable eco-friendly alternative to the classic sponge ",
-    "mainImage": {
-        "altText": "",
-        "src": ""
+    "mainArgument": {
+        "title": "",
+        "speech": "",
+        "image": {
+            "altText": "",
+            "src": ""
+        }
     },
     "marketingArguments": [
         {
