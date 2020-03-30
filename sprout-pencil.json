@@ -1,6 +1,10 @@
 {
     "title": "Sprout Pencil ",
     "subTitle": "This pencil grow into a plant after his death",
+    "mainImage": {
+        "altText": "",
+        "src": ""
+    },
     "marketingArguments": [
         {
             "title": "Sustainable & Biodegradable",

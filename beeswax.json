@@ -1,6 +1,10 @@
 {
     "title": "Beeswax wrap",
     "subTitle": "The eco-friendly alternative to cling wrap and single use-plastic",
+    "mainImage": {
+        "altText": "",
+        "src": "https://cdn.shopify.com/s/files/1/0275/6637/4996/products/beeswax.jpg"
+    },
     "marketingArguments": [
         {
             "title": "What is beeswax wrap?",

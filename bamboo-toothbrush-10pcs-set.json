@@ -1,6 +1,10 @@
 {
     "title": "Bamboo toothbrush - 10pcs/set",
     "subTitle": "100,000,000 plastic toothbrushes are consumed each year in Australia. It's time to change",
+    "mainImage": {
+        "altText": "",
+        "src": ""
+    },
     "marketingArguments": [
         {
             "title": "The best eco-friendly alternative plastic toothbrushes",

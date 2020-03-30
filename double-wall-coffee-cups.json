@@ -1,6 +1,10 @@
 {
     "title": "Double wall coffee cups",
     "subTitle": "the alliance between style and practical",
+    "mainImage": {
+        "altText": "",
+        "src": ""
+    },
     "marketingArguments": [
         {
             "title": "Double-wall feature keeps your hot drinks warm",
@@ -19,13 +23,6 @@
         }, {
             "title": "No more burning hands",
             "speech": "The outside walls stay cool to the touch even when filled with hot drinks",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "",
-            "speech": "",
             "image": {
                 "altText": "",
                 "src": ""

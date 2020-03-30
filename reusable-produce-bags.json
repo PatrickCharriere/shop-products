@@ -1,6 +1,10 @@
 {
     "title": "Reusable produce bags",
     "subTitle": "The alternative to the disposable supermarket plastic bags",
+    "mainImage": {
+        "altText": "",
+        "src": ""
+    },
     "marketingArguments": [
         {
             "title": "Against the plastic",

@@ -1,6 +1,10 @@
 {
     "title": "Toothbrush holder",
     "subTitle": "Your toothbrush also needs a home",
+    "mainImage": {
+        "altText": "",
+        "src": ""
+    },
     "marketingArguments": [
         {
             "title": "Biodegradable & sustainable",

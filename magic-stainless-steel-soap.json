@@ -1,6 +1,10 @@
 {
     "title": "Magic Stainless Steel Soap",
     "subTitle": "Stop to consume liters of water to wash your hands with this inexhaustible soap…",
+    "mainImage": {
+        "altText": "",
+        "src": ""
+    },
     "marketingArguments": [
         {
             "title": "An incredible efficiency solutions to get rid of hand smells ",
