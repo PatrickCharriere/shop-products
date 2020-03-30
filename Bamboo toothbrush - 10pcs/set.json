@@ -53,17 +53,6 @@
             }
         }
     ],
-    "reviews": [
-        {
-            "rating": 5,
-            "customerName": "",
-            "comment": "",
-            "images": [{
-                "altText": "",
-                "src": ""
-            }]
-        }
-    ],
     "packContent": [
         {
             "description": "",

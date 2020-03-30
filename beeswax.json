@@ -32,19 +32,6 @@
             }
         }
     ],
-    "reviews": [
-        {
-            "rating": 5,
-            "customerName": "Ollie U",
-            "comment": "What a convenient thing! I recommend unconditionally! And I recommend, also, to buy a roll, especially if you have dishes of non-standard size and shape. I myself long thought what option to choose, and very satisfied that I chose a roll, because. I have large rectangular plates and I cut the right size of the wrapper. I'll order another roll right now.",
-            "images": [
-                { "src": "https://ae01.alicdn.com/kf/Ufcf335538e3249308a694e0eec32045c0.jpg" },
-                { "src": "https://ae01.alicdn.com/kf/U76571140ff754604aeda4bcb603a18d9A.jpg" },
-                { "src": "https://ae01.alicdn.com/kf/U6511ca1dfff04aaca67fed045d0a57b5h.jpg" },
-                { "src": "https://ae01.alicdn.com/kf/U03131870642841658342e9f7c3fb807b7.jpg" }
-            ]
-        }
-    ],
     "packContent": [
         {
             "description": "1 small beeswax cloth",

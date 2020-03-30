@@ -32,17 +32,6 @@
             }
         }
     ],
-    "reviews": [
-        {
-            "rating": 5,
-            "customerName": "",
-            "comment": "",
-            "images": [{
-                "altText": "",
-                "src": ""
-            }]
-        }
-    ],
     "packContent": [
         {
             "description": "Set 7 pcs: <br>Spoon<br>Fork<br>Knife<br>Asian Cutlery<br>Straw Brush<br>Bamboo Straw",

@@ -32,17 +32,6 @@
             }
         }
     ],
-    "reviews": [
-        {
-            "rating": 5,
-            "customerName": "",
-            "comment": "",
-            "images": [{
-                "altText": "",
-                "src": ""
-            }]
-        }
-    ],
     "packContent": [
         {
             "description": "10 pcs of Sizal Soap Bag",
