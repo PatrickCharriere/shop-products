@@ -12,28 +12,14 @@
     "marketingArguments": [
         {
             "title": "Biodegradable & sustainable",
-            "speech": "100% made of bamboo: Bamboo is an environmentally sustainable material, the world's fastest naturally renewing resource which is also inherently.<br>At the end of its life, it can be added to your home compost",
+            "speech": "100% made of bamboo: Bamboo is an environmentally sustainable material, the world's fastest naturally renewing resource. It can be added to your home compost when you no longer use it but it won't be soon!",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
-            "title": "Anti-microbial, fungal and bacterial",
-            "speech": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "Eco-friendly packaging ",
-            "speech": "Plastic-Free & Recyclable Cardboard",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "",
-            "speech": "",
+            "title": "Anti-microbial and anti-bacterial",
+            "speech": "Natural power of the bamboo will keep the place clean of any indesirable.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -47,26 +33,12 @@
                 "altText": "",
                 "src": ""
             }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
         }
     ],
     "specifications": [
         {
             "label": "Material",
-            "value": "Natural bamboo",
+            "value": "Bamboo",
             "image": {
                 "altText": "",
                 "src": ""
@@ -74,14 +46,7 @@
         },
         {
             "label": "Size",
-            "value": "4*4cm ",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },{
-            "label": "Designed to",
-            "value": "hold a toothbrush (adult or children)",
+            "value": "4 x 4cm",
             "image": {
                 "altText": "",
                 "src": ""

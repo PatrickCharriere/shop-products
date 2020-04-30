@@ -1,6 +1,6 @@
 {
-    "title": "Bamboo toothbrush - 10pcs/set",
-    "subTitle": "100,000,000 plastic toothbrushes are consumed each year in Australia. It's time to change",
+    "title": "10 Bamboo toothbrushes",
+    "subTitle": "Too many plastic toothbrushes are consumed each year in the world. It's easy, and good time for a change.",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -12,49 +12,42 @@
     "marketingArguments": [
         {
             "title": "The best eco-friendly alternative plastic toothbrushes",
-            "speech": "Made from sustainably harvested bamboo",
+            "speech": "Made from sustainably harvested bamboo.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Biodegradable",
-            "speech": "At the end of its life, it can be added to your home compost or can be buried in the garden.",
+            "speech": "At the end of its life, your bamboo toothbrush can simply be added to your home compost or can be buried in the garden.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Sustainable",
-            "speech": "Ultra-durable: longer than a plastic toothbrush. It is recommended to change your toothbrush every 3 months",
+            "speech": "Ultra-durable: it lasts longer than a plastic toothbrush. It is recommended to change your toothbrush every 3 months.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Ergonomic",
-            "speech": "Easy handle design",
+            "speech": "Easy handle design. Made to perfectly fit your hand, you'll easily get use to that smooth texture.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Antimicrobial property",
-            "speech": "Bamboo has natural antibacterial properties. And no nasty BPA like plastics",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "Eco-friendly packaging",
-            "speech": "Plastic-Free & Recyclable Cardboard",
+            "speech": "Bamboo has natural antibacterial properties. And no BPA (BisPhenol A) like found in most common plastic toothbrushes.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Our tips",
-            "speech": "To remove the nylon, either pull out the bristles or cut off the head.",
+            "speech": "The bristle are made of nylon. This material is not degradable. We've been looking very hard for alternatives. However today the only sustanable alterative would be from an animal source (pig hairs). As we don't want any of our products to be made using any animals, we prefered this first solution. To get rid of the nylon, you can either pull out the bristles or just cut off the toothbrush head before recycling.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -62,20 +55,6 @@
         }
     ],
     "packContent": [
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
         {
             "description": "",
             "image": {

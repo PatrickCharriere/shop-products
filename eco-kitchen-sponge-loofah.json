@@ -1,5 +1,5 @@
 {
-    "title": "Eco Kitchen sponge - Loofah  ",
+    "title": "Eco Kitchen sponge - Loofah",
     "subTitle": "A sustainable eco-friendly alternative to the classic sponge in the kitchen",
     "mainArgument": {
         "title": "",
@@ -11,36 +11,29 @@
     },
     "marketingArguments": [
         {
-            "title": "The advantage of Loofah Sponge",
-            "speech": "This sponge is created from a plant called Loofah.  Loofahs are an easy, renewable resource, which is a fast-growing annual vine. They also don’t require much processing at all (other than drying).. Making it a real ecological innovation for your kitchen.",
+            "title": "The advantage of loofah sponge",
+            "speech": "This sponge is created from a plant called Loofah. Loofah is an easy, renewable resource, which is a fast-growing. They don’t require much processing other than drying, making it a real eco-friendly choice for your kitchen.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Biodegradable",
-            "speech": "At the end of its life, it can be added to your home compost",
+            "speech": "At the end of its use, it can simply be added to your home compost.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Sustainable",
-            "speech": "This product is made to last 3 to 4 weeks (based on daily use)",
+            "speech": "Each sponge is made to last 3 to 4 weeks, based on daily use. So this kit should be enough for 2 to 3 months.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
-            "title": "Multifunctional",
-            "speech": "Loofah sponge is could be used to<br>wash dishes<br>for household and kitchen.<br>wash pots<br>massage the body, even make insoles, breathable and non-stuffy sweat",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "Perfect for kitchen",
-            "speech": "The loofah allow to avoid leaving harmful chemical residue when washing dishes and easy to remove oil quickly.<br>The loofah is very soft in water, which will not scratch the surface of the bowl, simple to dry after use, save time for the next use  for the next use.",
+            "title": "Multi-use",
+            "speech": "Loofah sponge could be used to wash dishes and clean the kitchen. The loofah helps for dishwashing as it will capture any oily substances.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -49,21 +42,7 @@
     ],
     "packContent": [
         {
-            "description": "3 Loofah sponge",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
+            "description": "3 loofah sponges",
             "image": {
                 "altText": "",
                 "src": ""
@@ -73,7 +52,7 @@
     "specifications": [
         {
             "label": "Material",
-            "value": "100% made of Loofah (plant) ",
+            "value": "100% made of Loofah",
             "image": {
                 "altText": "",
                 "src": ""
@@ -81,7 +60,7 @@
         },
         {
             "label": "Size",
-            "value": "Shape 1: 13x8,1cm<br>Shape 2: 12,3x7,8cm",
+            "value": "Shape 1: 13x8x1 cm,Shape 2: 12.3x7.8 cm",
             "image": {
                 "altText": "",
                 "src": ""

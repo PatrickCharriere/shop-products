@@ -1,6 +1,6 @@
 {
-    "title": "Sisal Soap Bag",
-    "subTitle": "The practical and eco-friendly accessory for storing and use your soap.",
+    "title": "10 Natural soap bags",
+    "subTitle": "The eco-friendly accessory to store and use your soap.",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -12,28 +12,28 @@
     "marketingArguments": [
         {
             "title": "Sustainable & Biodegradable",
-            "speech": "Made of natural Plant Fiber, durable for a long time to use.",
+            "speech": "Made of natural plant fibers, durable for a long time to use.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
-            "title": "The best solution to extend soap life ",
-            "speech": "Put the soap in the bag. and let the soap dry quickly so as to for a longer time",
+            "title": "Easy to use and to extend your soap",
+            "speech": "Put the soap into the bag and use them like this. Let both the soap and the bag, dry together every time.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
-            "title": "Stimulates Blood Circulation",
-            "speech": "You can use it for soap, shower gel, and cleansing lotion. It allows to massage and stimulate circulation in your shower",
+            "title": "Stimulates blood circulation",
+            "speech": "You can use it with soap, shower gel and cleansing lotion. By gently massaging your skin it will stimulate your blood circulation during your shower.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Tighten design",
-            "speech": "Adapts to the size of your soap, just pull the string to tighten it. Easy to take out and put back",
+            "speech": "Adapts to the size of your soap, just pull the string to tighten it. Easy use again and again.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -42,21 +42,7 @@
     ],
     "packContent": [
         {
-            "description": "10 pcs of Sizal Soap Bag",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
+            "description": "10 sizal soap bags",
             "image": {
                 "altText": "",
                 "src": ""
@@ -74,7 +60,7 @@
         },
         {
             "label": "Size",
-            "value": "14*9cm",
+            "value": "14 x 9cm",
             "image": {
                 "altText": "",
                 "src": ""

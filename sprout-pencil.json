@@ -1,6 +1,6 @@
 {
-    "title": "Sprout Pencil ",
-    "subTitle": "This pencil grow into a plant after his death",
+    "title": "Sprout Pencil",
+    "subTitle": "This pencil will grow into a plant after his normal use.",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -12,28 +12,21 @@
     "marketingArguments": [
         {
             "title": "Sustainable & Biodegradable",
-            "speech": "Designed with natural materials: wood and biodegradable seed capsule ",
+            "speech": "Designed with natural materials: wood and biodegradable seed capsule.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "A pen that never stops living",
-            "speech": "Write until only the stub is left, then plant upside down. Look up to the plant come alive",
+            "speech": "Write, draw, design, as far as you can and plant it upside down after that. Take care of the growing plant that will come out.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
-            "title": "8 pencils, 8 different plant",
-            "speech": "Each pencil contains a different plant seed: Parsley, Thyme, Basil, Sage, Perilla, Lucky grass, Mint, Thales.",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "",
-            "speech": "",
+            "title": "8 pencils, 8 different plants",
+            "speech": "Each pencil contains a different plant seed: Parsley, Thyme, Basil, Sage, Perilla, Lucky grass, Mint and Thales.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -42,21 +35,7 @@
     ],
     "packContent": [
         {
-            "description": "8 Sprout Pencil",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
+            "description": "8 pencils",
             "image": {
                 "altText": "",
                 "src": ""
@@ -66,7 +45,7 @@
     "specifications": [
         {
             "label": "Material",
-            "value": "wood",
+            "value": "Wood",
             "image": {
                 "altText": "",
                 "src": ""
@@ -74,7 +53,7 @@
         },
         {
             "label": "Size",
-            "value": "18.5*6.5*1 cm",
+            "value": "18.5 x 6.5 x 1cm",
             "image": {
                 "altText": "",
                 "src": ""
@@ -89,8 +68,8 @@
             }
         },
         {
-            "label": "Plant variety",
-            "value": "Parsley, Thyme, Basil, Sage, Perilla, Lucky grass, Mint, Thales.",
+            "label": "Plant varieties",
+            "value": "Parsley, Thyme, Basil, Sage, Perilla, Lucky grass, Mint, Thales",
             "image": {
                 "altText": "",
                 "src": ""

@@ -1,6 +1,6 @@
 {
     "title": "Double wall coffee cups",
-    "subTitle": "the alliance between style and practical",
+    "subTitle": "Stylish and handy",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -11,22 +11,15 @@
     },
     "marketingArguments": [
         {
-            "title": "Double-wall feature keeps your hot drinks warm",
-            "speech": "",
+            "title": "Double-wall feature keeps your drink warm and your fingers protected.",
+            "speech": "The outside walls stay cool to the touch even when filled with hot drinks.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Designed to be effective",
-            "speech": "Under the glass floor is a hydrophobic silicone membrane, which serves to equalize the pressure between the glass walls. It leaves the glass 'breathe': with cold drinks, no condensation forms on the glass surface and the glass does not leave any unsightly water rims.",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "No more burning hands",
-            "speech": "The outside walls stay cool to the touch even when filled with hot drinks",
+            "speech": "Under the glass floor is a hydrophobic silicone membrane, which equalizes the pressure between the glass walls. It leaves the glass breathing: with hot and cold drinks, no condensation.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -40,31 +33,9 @@
                 "altText": "",
                 "src": ""
             }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
         }
     ],
     "specifications": [
-        {
-            "label": "",
-            "value": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
         {
             "label": "",
             "value": "",

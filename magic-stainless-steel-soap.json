@@ -1,6 +1,6 @@
 {
     "title": "Magic Stainless Steel Soap",
-    "subTitle": "Stop to consume liters of water to wash your hands with this inexhaustible soap…",
+    "subTitle": "Reduce water consumption and save time",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -11,15 +11,15 @@
     },
     "marketingArguments": [
         {
-            "title": "An incredible efficiency solutions to get rid of hand smells ",
-            "speech": "If you love cooking with foods with stubborn smells (garlic, fish, onion), you know it is a lot of good for cooking, but less for your hands. The smell persists for hours on your hands, and takes a lot of time and water to remove. Steel soap has been proven to be one of the best solutions to get rid of these smells. ",
+            "title": "An incredible efficiency solutions to get rid of smelly fingers.",
+            "speech": "If you love cooking with foods with stubborn smells (garlic, fish, onion mainly), you know it is a lot of good for cooking, but less for your hands. The smell can persist for hours and takes a lot of time and water to get rid of. Steel soap has been proven to be one of the best solutions for that.",
             "image": {
                 "altText": "",
                 "src": ""
             }
         }, {
             "title": "Widely reduce water consumption",
-            "speech": "With steel soap, no need to run liters of water to wash your hands since in just a few seconds the smells disappear.",
+            "speech": "With steel soap, no need to run liters of water to wash your hands since in just a few seconds the smell disappears.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -33,7 +33,7 @@
             }
         }, {
             "title": "Save money",
-            "speech": "Do not spend more on soaps or products to get rid of these smell, gain peace for a long time because this product is stainless steel and thus hard wearing! ",
+            "speech": "Don't put more soap or chemicals on your skin to get rid of these smells.",
             "image": {
                 "altText": "",
                 "src": ""
@@ -41,20 +41,6 @@
         }
     ],
     "packContent": [
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
-        {
-            "description": "",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        },
         {
             "description": "",
             "image": {
@@ -74,15 +60,7 @@
         },
         {
             "label": "Size",
-            "value": "65mm*47mm*15mm",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, 
-        {
-            "label": "",
-            "value": "",
+            "value": "65mm x 47mm x 15mm",
             "image": {
                 "altText": "",
                 "src": ""
