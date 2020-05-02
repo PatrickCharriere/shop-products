@@ -11,33 +11,32 @@
     },
     "marketingArguments": [
         {
-            "title": "Designed for Tea & Coffee",
-            "speech": "Simple, design & efficient, this spoon will quickly integrate your daily life. Over is the time, looking for a way to close the tea or coffee beans bag.",
-            "image": {
-                "altText": "Tea and coffee",
-                "src": "https://drive.google.com/uc?id=1_VLvpmLcsy-RJzryGjcGI9j1-dMehlpD"
-            }
-        },
-        {
-            "title": "Take the right amount",
-            "speech": "Just use your spoon. Its 20cl cup just measure the right amount of coffee beans, tea or sugar for a delicious cup every time.",
-            "image": {
-                "altText": "Coffee beans",
-                "src": "https://drive.google.com/uc?id=1L4X-9-yd6-FGrDLXgyus8OV9OF1XKVlD"
-            }
-        },
-        {
             "title": "Robust and design",
             "speech": "Their timeless, stainless steel design with a 4 colours choice is made to last for decades. The strengthened steel body and spring won't let you down.",
             "image": {
                 "altText": "Coffee beans",
                 "src": "https://drive.google.com/uc?id=1JAZHcSheqN2xxs4bID3K01NLjxn3dbXD"
             }
+        }, {
+            "title": "Designed for Tea & Coffee",
+            "speech": "Simple, design & efficient, this spoon will quickly integrate your daily life. Forget the time looking for something to close your tea or coffee bags.",
+            "image": {
+                "altText": "Tea and coffee",
+                "src": "https://drive.google.com/uc?id=1_VLvpmLcsy-RJzryGjcGI9j1-dMehlpD"
+            }
+        },
+        {
+            "title": "Measure just right",
+            "speech": "Just use your spoon. Its 20cl cup just measure the right amount of coffee beans, tea or sugar for a delicious cup every time.",
+            "image": {
+                "altText": "Coffee beans",
+                "src": "https://drive.google.com/uc?id=1L4X-9-yd6-FGrDLXgyus8OV9OF1XKVlD"
+            }
         }
     ],
     "packContent": [
         {
-            "description": "",
+            "description": "1 x 2-in-1 Teaspoon Clip",
             "image": {
                 "altText": "",
                 "src": ""
@@ -54,11 +53,11 @@
             }
         },
         {
-            "label": "Size",
-            "value": "17.5 x 3.7cm",
+            "label": "Dimensions",
+            "value": "175 x 37 mm",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Dimensions",
+                "src": "https://drive.google.com/open?id=1NVzN1fQySRlMuXQO7tW80fX6NiNTpvxE"
             }
         }
     ]

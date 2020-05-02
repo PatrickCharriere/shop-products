@@ -1,6 +1,6 @@
 {
-    "title": "Sprout Pencil",
-    "subTitle": "This pencil will grow into a plant after his normal use.",
+    "title": "8 Seed Pencils",
+    "subTitle": "These pencils will grow into plants",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -21,8 +21,8 @@
             "title": "A pen that never stops living",
             "speech": "Write, draw, design, as far as you can and plant it upside down after that. Take care of the growing plant that will come out.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Seed",
+                "src": "https://drive.google.com/uc?id=1uD8PDnTQQv_S__7yBz2fe7byRQp3YjRG"
             }
         }, {
             "title": "8 pencils, 8 different plants",

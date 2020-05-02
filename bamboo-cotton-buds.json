@@ -5,24 +5,24 @@
         "title": "",
         "speech": "",
         "image": {
-            "altText": "",
-            "src": ""
+            "altText": "Bamboo",
+            "src": "https://drive.google.com/uc?id=1hDK-bge82Xaov5D-YuvD01QCwtyoo2W3"
         }
     },
     "marketingArguments": [
         {
             "title": "100% Biodegradable",
-            "speech": "Made of bamboo and pure cotton. Both are environmentally sustainable materials. Also, the bamboo is the world's fastest naturally renewing resource. When the cotton bud is used then it can simply be added to your home compost.",
+            "speech": "Made of bamboo and pure cotton. Both are environmentally sustainable materials. Also, the bamboo is the world's fastest naturally renewing resource. When the cotton bud is used, it can simply be added to your home compost.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Biodegradable",
+                "src": "https://drive.google.com/uc?id=1nmQraoPZX2f3lFUQvL08J_jcelysi95p"
             }
         }, {
-            "title": "Eco-friendly packaging ",
-            "speech": "Plastic-free & recyclable cardboard",
+            "title": "Eco-friendly packaging",
+            "speech": "Packaging made of recycled and recyclable materials. To us cardboard is a noble material given that it is produced from tree fibres and that it can be recycled many times over.  No plastic sticker, we just kept what is useful here.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Cardboard",
+                "src": "https://drive.google.com/uc?id=1Z85KAlzMKFqkSwy7mV-VwlbE9oFmALxh"
             }
         }
     ],
@@ -30,8 +30,8 @@
         {
             "description": "100 pcs of cotton buds",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "cartboard box",
+                "src": "https://drive.google.com/uc?id=1XaRiJqlhsVVbLtIwYH-xz1-ZYEfCF_Br"
             }
         }
     ],
