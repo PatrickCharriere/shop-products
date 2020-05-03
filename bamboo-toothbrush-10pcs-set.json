@@ -1,23 +1,16 @@
 {
     "title": "10 Bamboo toothbrushes",
-    "subTitle": "Too many plastic toothbrushes are consumed each year in the world. It's easy, and good time for a change.",
+    "subTitle": "Too many plastic toothbrushes are consumed each year in the world. It's easy and the right time to change.",
     "mainArgument": {
-        "title": "",
-        "speech": "",
+        "title": "The best eco-friendly alternative plastic toothbrushes",
+        "speech": "Made from sustainably harvested bamboo.",
         "image": {
-            "altText": "",
-            "src": ""
+            "altText": "Bamboo",
+            "src": "https://drive.google.com/uc?id=1hDK-bge82Xaov5D-YuvD01QCwtyoo2W3"
         }
     },
     "marketingArguments": [
         {
-            "title": "The best eco-friendly alternative plastic toothbrushes",
-            "speech": "Made from sustainably harvested bamboo.",
-            "image": {
-                "altText": "Bamboo",
-                "src": "https://drive.google.com/uc?id=1hDK-bge82Xaov5D-YuvD01QCwtyoo2W3"
-            }
-        }, {
             "title": "Biodegradable",
             "speech": "At the end of its life, your bamboo toothbrush can simply be added to your home compost or can be buried in the garden.",
             "image": {
@@ -66,7 +59,7 @@
     "specifications": [
         {
             "label": "Material",
-            "value": "Natural bamboo",
+            "value": "Natural bamboo, Nylon bristles",
             "image": {
                 "altText": "",
                 "src": ""
