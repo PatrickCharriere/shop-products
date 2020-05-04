@@ -11,8 +11,16 @@
     },
     "marketingArguments": [
         {
-            "title": "100% Biodegradable",
-            "speech": "Made of bamboo and pure cotton. Both are environmentally sustainable materials. Also, the bamboo is the world's fastest naturally renewing resource. When the cotton bud is used, it can simply be added to your home compost.",
+            "title": "Soft touch",
+            "speech": "With their soft touch design, these cottons swabs won't hurt your skin. Either used for precise makeup or to clean their thin profile is designed to take care of you.",
+            "image": {
+                "altText": "Cottons",
+                "src": "https://drive.google.com/uc?id=1-zo9W4abrIR0CO4MWmQ03EkNkRdoPjwD"
+            }
+        },
+        {
+            "title": "Reduce your waste",
+            "speech": "100% Biodegradable, made of bamboo and pure cotton. Both are environmentally sustainable materials. Also, the bamboo is the world's fastest naturally renewing resource. When the cotton bud is used, it can simply be added to your home compost.",
             "image": {
                 "altText": "Biodegradable",
                 "src": "https://drive.google.com/uc?id=1nmQraoPZX2f3lFUQvL08J_jcelysi95p"
@@ -28,10 +36,10 @@
     ],
     "packContent": [
         {
-            "description": "100 pcs of cotton buds",
+            "description": "200 wooden cotton buds",
             "image": {
-                "altText": "cartboard box",
-                "src": "https://drive.google.com/uc?id=1XaRiJqlhsVVbLtIwYH-xz1-ZYEfCF_Br"
+                "altText": "Cotton buds box",
+                "src": "https://drive.google.com/uc?id=1bfG0DS5Nk33P0WAdhlSsCTLwqbwt7ilK"
             }
         }
     ],
