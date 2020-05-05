@@ -11,32 +11,33 @@
     },
     "marketingArguments": [
         {
-            "title": "An incredible efficiency solutions to get rid of smelly fingers.",
-            "speech": "If you love cooking with foods with stubborn smells (garlic, fish, onion mainly), you know it is a lot of good for cooking, but less for your hands. The smell can persist for hours and takes a lot of time and water to get rid of. Steel soap has been proven to be one of the best solutions for that.",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "Widely reduce water consumption",
+            "title": "Significantly reduce your water consumption",
             "speech": "With steel soap, no need to run liters of water to wash your hands since in just a few seconds the smell disappears.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Tap running water",
+                "src": "https://drive.google.com/uc?id=1VckG4vrd4SqWIPYx7DEuIvH5FGz-57gB"
+            }
+        },
+        {
+            "title": "Get rid of smells in a blink",
+            "speech": "If you love cooking with foods with stubborn smells (garlic, fish, onion mainly), you know it is a lot of good for cooking, but less for your hands. The smell can persist for hours and takes a lot of time and water to get rid of. Steel soap has been proven to be one of the best solutions for that.",
+            "image": {
+                "altText": "Fishes",
+                "src": "https://drive.google.com/uc?id=120sITUgvEy2td6AF1Lo1Poaqv_CxQ2g2"
             }
         }, {
-            "title": "So Easy-to-use",
+            "title": "So easy to use",
             "speech": "The use is extremely simple just hold your hands under cold running water while rubbing the stainless steel for ten seconds.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Stainless steel soap",
+                "src": "https://drive.google.com/uc?id=1ulrv0L-R8Kzs3RJ6AtKvIQmH66BahmG6"
             }
         }, {
-            "title": "Save money",
+            "title": "Save money, and the planet",
             "speech": "Don't put more soap or chemicals on your skin to get rid of these smells.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Plant",
+                "src": "https://drive.google.com/uc?id=1uD8PDnTQQv_S__7yBz2fe7byRQp3YjRG"
             }
         }
     ],
