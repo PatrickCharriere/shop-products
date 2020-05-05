@@ -11,24 +11,24 @@
     },
     "marketingArguments": [
         {
-            "title": "Double-wall feature keeps your drink warm and your fingers protected.",
-            "speech": "The outside walls stay cool to the touch even when filled with hot drinks.",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
             "title": "Designed to be effective",
             "speech": "Under the glass floor is a hydrophobic silicone membrane, which equalizes the pressure between the glass walls. It leaves the glass breathing: with hot and cold drinks, no condensation.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Served coffee with chocolate",
+                "src": "https://drive.google.com/uc?id=1T5C2Kl2Pz5KnUA-eGv-G8qLhraJARbYI"
             }
-        }
+        }, {
+            "title": "Double-wall feature",
+            "speech": "This keeps your drink warm and your fingers protected. The outside walls stay cool to the touch even when filled with hot drinks.",
+            "image": {
+                "altText": "zoom",
+                "src": "https://drive.google.com/uc?id=1YZqGuPDGsQXRCOIQ12Vfmpy3iRomCSRc"
+            }
+        } 
     ],
     "packContent": [
         {
-            "description": "",
+            "description": "4 x 80ml double wall coffee cup",
             "image": {
                 "altText": "",
                 "src": ""
