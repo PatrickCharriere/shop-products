@@ -1,6 +1,6 @@
 {
-    "title": "Eco Kitchen sponge - Loofah",
-    "subTitle": "A sustainable eco-friendly alternative to the classic sponge in the kitchen",
+    "title": "Eco kitchen sponge - Loofah",
+    "subTitle": "A sustainable alternative to the usual sponge",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -14,29 +14,29 @@
             "title": "The advantage of loofah sponge",
             "speech": "This sponge is created from a plant called Loofah. Loofah is an easy, renewable resource, which is a fast-growing. They don’t require much processing other than drying, making it a real eco-friendly choice for your kitchen.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Loofah plant",
+                "src": "https://drive.google.com/uc?id=134dUoJqfQArJ6YMYDk6sq_TQN1PFnY-u"
             }
         }, {
             "title": "Biodegradable",
             "speech": "At the end of its use, it can simply be added to your home compost.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Garden",
+                "src": "https://drive.google.com/uc?id=1eh1s9m3c7YwxHQ24iYFQ__USmyzWh7Tl"
             }
         }, {
-            "title": "Sustainable",
-            "speech": "Each sponge is made to last 3 to 4 weeks, based on daily use. So this kit should be enough for 2 to 3 months.",
+            "title": "Long lasting",
+            "speech": "Each sponge is made to last 3 to 4 weeks, based on daily use. So this pack should be enough for 2 to 3 months.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Loofah harvest",
+                "src": "https://drive.google.com/uc?id=1DlEptvLGokODBRuSTyoesCHaGPfrVe3S"
             }
         }, {
             "title": "Multi-use",
             "speech": "Loofah sponge could be used to wash dishes and clean the kitchen. The loofah helps for dishwashing as it will capture any oily substances.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Dishes",
+                "src": "https://drive.google.com/open?id=1n1yCWSi_LkgnWZUxwTi-a_xO5nQY9l1S"
             }
         }
     ],
@@ -44,8 +44,8 @@
         {
             "description": "3 loofah sponges",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "3-sponges pack",
+                "src": "https://drive.google.com/open?id=1TvRkjXRAaYf8ZlCUnMJ2hBvtSuoGrNRF"
             }
         }
     ],
