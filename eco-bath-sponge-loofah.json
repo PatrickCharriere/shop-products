@@ -1,6 +1,6 @@
 {
     "title": "Eco bath sponge - Loofah",
-    "subTitle": "A sustainable eco-friendly alternative to the classic sponge",
+    "subTitle": "A sustainable eco-friendly alternative",
     "mainArgument": {
         "title": "",
         "speech": "",
@@ -14,43 +14,36 @@
             "title": "What is Loofah Sponge ?",
             "speech": "This sponge is created from a plant called Loofah. Loofah is an easy, renewable resource, which is a fast-growing. They don’t require much processing other than drying, making it a real eco-friendly choice for your daily shower.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Loofah plant",
+                "src": "https://drive.google.com/uc?id=134dUoJqfQArJ6YMYDk6sq_TQN1PFnY-u"
             }
         }, {
             "title": "Biodegradable",
-            "speech": "At the end of its use, it can simply be added to your home compost.",
+            "speech": "Each sponge is made to last 3 to 4 weeks, based on daily use. So this kit should be enough for 2 to 3 months. At the end of its use, it can simply be added to your home compost.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Loofah harvest",
+                "src": "https://drive.google.com/uc?id=1DlEptvLGokODBRuSTyoesCHaGPfrVe3S"
             }
         }, {
-            "title": "Sustainable",
-            "speech": "Each sponge is made to last 3 to 4 weeks, based on daily use. So this kit should be enough for 2 to 3 months.",
+            "title": "Made to be soft with the skin",
+            "speech": "Safe to use and will for you skin, this sponge is made from natural elements. Thanks to this, it is safe to use on a regular basis. The Loofah sponge is made up of slightly rough fibers, perfect to exfoliate your skin and to stimulate your blood circulation.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Zoom on sponge",
+                "src": "https://drive.google.com/uc?id=1KyWcVhlcS4Y-33vTGM-DwRLztpJqg_Pf"
             }
         }, {
-            "title": "Particularly well tolerated by the skin",
-            "speech": "Safe to use and will for you skin, this sponge is made from natural elements. Thanks to this, it is safe to use on a regular basis. The Loofah sponge is made up of slightly rough fibers, perfect to exfoliate your skin and to stimulate your blood circulation",
-            "image": {
-                "altText": "",
-                "src": ""
-            }
-        }, {
-            "title": "How to use your loofah sponge ?",
+            "title": "How to use your loofah sponge?",
             "speech": "The loofah sponge must be wet, cover the sponge with shower gel and gently pass the sponge over the body. This deep cleaning allows the skin to renew and benefit from the care products applied. Loofah sponge is made for a personal use.",
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Bathroom",
+                "src": "https://drive.google.com/uc?id=1tZXM956a7dXacMydM1CWcdPESpNuuilA"
             }
         }, {
-            "title": "How to clean your loofah sponge ?",
+            "title": "How to clean your loofah sponge?",
             "speech": "When the natural sponge is dry, you can put it in the microwave for 30 seconds. The loofah can also be washed in the dishwasher at 30 degrees. Let the loofah dry in an open place.", 
             "image": {
-                "altText": "",
-                "src": ""
+                "altText": "Cut view loofah",
+                "src": "https://drive.google.com/uc?id=1bKKP-kRWw7utoYpYXWN8ISn3K8r5UTAp"
             }
         }
 
@@ -58,7 +51,7 @@
     ],
     "packContent": [
         {
-            "description": "3 Loofah sponges",
+            "description": "3 circular loofah sponges",
             "image": {
                 "altText": "",
                 "src": ""
